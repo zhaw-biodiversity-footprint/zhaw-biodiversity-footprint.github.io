@@ -1,19 +1,18 @@
 project:
   type: website
+  
+lang: de-CH
 
 website:
-  title: "Template_Quarto_Website"
+  title: "Shop Hero"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: Projekt
+      - href: app.qmd
+        text: Warenkorb
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: flatly
+    #css: bootstrap.css
     toc: true
-
-editor: visual
-
