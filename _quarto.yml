@@ -4,13 +4,13 @@ project:
 lang: de-CH
 
 website:
-  title: "Shop Hero"
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Projekt
       - href: app.qmd
-        text: Warenkorb
+        text: Biodiversity-Footprint
 format:
   html:
     theme: flatly
