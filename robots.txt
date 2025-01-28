@@ -1,1 +1,1 @@
-Sitemap: https://zhaw-shophero.github.io/sitemap.xml
+Sitemap: https://zhaw-biodiversity-footprint.github.io/sitemap.xml
