@@ -14,5 +14,7 @@ website:
 format:
   html:
     theme: flatly
+    grid:
+      body-width: 1000px
     #css: bootstrap.css
-    toc: true
+    #toc: true
