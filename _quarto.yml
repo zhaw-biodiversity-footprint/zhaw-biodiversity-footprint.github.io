@@ -9,7 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Projekt
-      - href: app.qmd
+      - href: biodiversity_footprint.qmd
         text: Biodiversity-Footprint
 format:
   html:
