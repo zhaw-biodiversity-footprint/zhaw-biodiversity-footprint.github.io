@@ -15,6 +15,6 @@ format:
   html:
     theme: flatly
     grid:
-      body-width: 1000px
+      body-width: 1200px
     #css: bootstrap.css
     #toc: true
