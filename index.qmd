@@ -10,11 +10,11 @@
 
 Das interdisziplinäre Forschungsprojekt «ShopHero» hat zum Ziel, einen forschungsbasierten Beitrag an die Reduktion von Lebensmittelabfällen und der Erhöhung der Nachhaltigkeit von Lebensmitteleinkäufen zu leisten. ShopHero entwickelt dabei ein Modell für die Auswertung digitaler Einkaufsdaten, welche durch ein Kundenkartensystem von Lebensmitteleinzelhändlern gesammelt werden. Die Daten werden genutzt, um den Umweltfussabdruck der getätigten Einkäufe sowie die zu Hause anfallenden Lebensmittelverluste vorauszusagen.
 
-Im Rahmen des Vorprojekts «BioPrint: Fostering Biodiversity Footprint Management along Value Chains» des Schweizer Nationalfonds ([NFP82 – Biodiversität und Ökosystemleistungen](https://www.nfp82.ch/de)) wurde der Biodiversitäts-Fussabdruck eines ausgewählten, repräsentativen, Warenkorbs mit 51 Lebensmitteln berechnet.
+Im Rahmen des Vorprojekts «BioPrint: Fostering Biodiversity Footprint Management along Value Chains» des Schweizer Nationalfonds ([NFP82 – Biodiversität und Ökosystemleistungen](https://www.nfp82.ch/de){target="_blank"}) wurde der Biodiversitäts-Fussabdruck eines ausgewählten, repräsentativen, Warenkorbs mit 51 Lebensmitteln berechnet.
 
 Drittmittelgeber und Mitarbeit: Die Projekte «ShopHero» (Nr. 197633) und «BioPrint (Nr. 226932) wurde durch den Schweizerischen Nationalfonds (SNF) gefördert und in Zusammenarbeit der Zürcher Hochschule für Angewandte Wissenschaften mit der Universität Zürich umgesetzt.
 
-Weitere Informationen zum Projekt «ShopHero»: [Link](https://www.zhaw.ch/de/forschung/projekt/72613/)
+Weitere Informationen zum Projekt «ShopHero»: [Link](https://www.zhaw.ch/de/forschung/projekt/72613/){target="_blank"}
 
 ## Was ist Biodiversität und wie wurde der Biodiversitäts-Fussabdruck berechnet?
 
@@ -51,10 +51,10 @@ Wie wurde die Berechnung gemacht? Wir haben den Biodiversitäts-Fussabdruck von 
 
 | Beschreibung                                                                                                                    | Quelle                                                                                                                           | Link                                                             |
 |-------------------------------|:--------------------|---------------------|
-| Berechnung des Schweizer Netto-Konsums je Produkt und Jahr = Nettoimport + Schweizer Produktion.                                | Federal Office for Customs and Border Security (FOCBS), Swiss Federal Administration                                             | [Hier klicken](https://www.gate.ezv.admin.ch/swissimpex/)        |
-| Landverbrauch pro kg Produkt (m^2^/kg), welcher sich aus dem Ertrag berechnet                                                     | Nutzpflanzen und tierische Erzeugnisse: Agriculture Organization of the United Nations (FAO)                                     | [Hier klicken](https://www.fao.org/faostat/en/#data/QCL)         |
-|                                                                                                                                 | Detaillierte Handelsmatrix: Food and Agriculture Organization of the United Nations (FAO)                                        | [Hier klicken](https://www.fao.org/faostat/en/#data/TM)          |
-| Berechnung des potenziellen Speziesverlusts pro (m^2^ und Land unter Verwendung von länderspezifischen Charakterisierungsfaktoren. | Chaudhary & Brooks (2018): Land Use Intensity-Specific Global Characterization Factors to Assess Product Biodiversity Footprints | [Hier klicken](https://pubs.acs.org/doi/10.1021/acs.est.7b05570) |
+| Berechnung des Schweizer Netto-Konsums je Produkt und Jahr = Nettoimport + Schweizer Produktion.                                | Federal Office for Customs and Border Security (FOCBS), Swiss Federal Administration                                             | [Hier klicken](https://www.gate.ezv.admin.ch/swissimpex/){target="_blank"}        |
+| Landverbrauch pro kg Produkt (m^2^/kg), welcher sich aus dem Ertrag berechnet                                                     | Nutzpflanzen und tierische Erzeugnisse: Agriculture Organization of the United Nations (FAO)                                     | [Hier klicken](https://www.fao.org/faostat/en/#data/QCL){target="_blank"}         |
+|                                                                                                                                 | Detaillierte Handelsmatrix: Food and Agriculture Organization of the United Nations (FAO)                                        | [Hier klicken](https://www.fao.org/faostat/en/#data/TM){target="_blank"}          |
+| Berechnung des potenziellen Speziesverlusts pro m^2^ und Land unter Verwendung von länderspezifischen Charakterisierungsfaktoren. | Chaudhary & Brooks (2018): Land Use Intensity-Specific Global Characterization Factors to Assess Product Biodiversity Footprints | [Hier klicken](https://pubs.acs.org/doi/10.1021/acs.est.7b05570){target="_blank"} |
 
 : {tbl-colwidths="\[40 , 40, 10\]"}
 
@@ -81,6 +81,6 @@ Zürcher Hochschule für Angewandte Wissenschaften\
 Matthias Stucki\
 matthias.stucki\@zhaw.ch\
 +41 58 934 57 19\
-Forschungsgruppe Ökobilanzierung: [www.zhaw.ch/iunr/lca](https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/oekotechnologien-energiesysteme/oekobilanzierung)
+Forschungsgruppe Ökobilanzierung: [www.zhaw.ch/iunr/lca](https://www.zhaw.ch/de/lsfm/institute-zentren/iunr/oekotechnologien-energiesysteme/oekobilanzierung){target="_blank"}
 
 [^5]: Beretta, C. & Hellweg, S. (2019). Lebensmittelverluste in der Schweiz: Mengen und Umweltbelastung. Wissenschaftlicher Schlussbericht, Oktober 2019. ETH Zürich (Download: www.bafu.admin.ch/lebensmittelabfaelle)
